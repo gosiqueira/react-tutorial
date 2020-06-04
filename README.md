@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/gosiqueira/react-tutorial?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/gosiqueira/react-tutorial)
 
 # React Tutorial: Intro to React
 ---
